@@ -28,7 +28,7 @@ Soy una desarrolladora de software con experiencia en el desarrollo backend y fu
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 ### 📊 [CFDI Visor - Sistema de Procesamiento de Nómina](https://github.com/alma-karina-avila/cfdivisornomina)
 Sistema web desarrollado con **Spring Boot** y **arquitectura hexagonal** para procesar y visualizar archivos CFDI de nómina en formato XML del SAT mexicano.
@@ -56,7 +56,7 @@ Sitio web responsivo con información de contacto profesional, redes sociales y 
 
 ## 💡 Sobre Mí
 
-- 🔭 Actualmente desarrollando soluciones Java / Spring Boot orientadas al sector empresarial
+- 🔭 Actualmente desarrollando soluciones Java / Spring Boot
 - 🌱 Aprendiendo constantemente sobre arquitecturas de software y buenas prácticas
 - 💬 Pregúntame sobre **Java, Spring Boot, desarrollo backend, CFDI/SAT**
 - ⚡ Me apasiona el desarrollo a la medida y resolver problemas con código limpio y bien estructurado
